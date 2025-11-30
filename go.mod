@@ -25,3 +25,5 @@ require (
 	golang.org/x/sys v0.28.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/r0busta/go-shopify-graphql-model/v4 v4.1.0 => github.com/maxboehm/go-shopify-graphql-model/v4 v4.0.0-2025-10
